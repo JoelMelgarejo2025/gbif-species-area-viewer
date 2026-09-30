@@ -15,7 +15,7 @@ Prototipo web en español para buscar una dirección o lugar, seleccionar un rad
 
 Las tarjetas usan 🔴 En peligro crítico (CR), 🟠 En peligro (EN) y 🟡 Vulnerable (VU), según la categoría global IUCN que GBIF tenga disponible. Si no hay una de esas categorías, se muestra solo el número de registros: la ausencia de símbolo no demuestra que una especie no esté amenazada.
 
-El mapa abre en satélite con etiquetas y con la capa **Áreas** activada. Consulta servicios oficiales: SERNANP para Perú, RUNAP para Colombia, el Sistema Nacional de Áreas Protegidas de Ecuador y CNUC/MMA servido por IBAMA para Brasil. Se puede alternar al callejero y apagar la capa desde sus herramientas. Los servicios pueden cambiar, responder lentamente o tener escalas y fechas distintas. Si una fuente no responde, esa parte de la capa puede no mostrarse. La vista es una referencia y no sustituye la delimitación legal ni la cartografía oficial vigente.
+El mapa abre en satélite con etiquetas, tras una breve animación de globo 3D que se acerca a Latinoamérica. La capa **Áreas** está apagada de forma predeterminada y se activa manualmente. Consulta servicios oficiales: SERNANP para Perú, RUNAP para Colombia, el Sistema Nacional de Áreas Protegidas de Ecuador y CNUC/MMA servido por IBAMA para Brasil. Se puede alternar al callejero. Los servicios pueden cambiar, responder lentamente o tener escalas y fechas distintas. Si una fuente no responde, esa parte de la capa puede no mostrarse. La vista es una referencia y no sustituye la delimitación legal ni la cartografía oficial vigente.
 
 ## Cómo funciona y límites
 
